@@ -1,0 +1,9 @@
+Location: The balcony1 is on the South east of the plan.Relationship: It is on the southern side of the master room.Size: It is about 2 feet by 10 feet. Location: Balcony 2 is on the west of the floor plan.
+Relationship: It is to the west of the bathroom.
+Size: It is about 1.5 feet by 9 feet. Location: The bathroom is on the western central part of the plan.Relationship: It is to the west of the living room and south of the the kitchen.Size: It is about 2feet by 3feet. Location: The common room is on the North east of the plan.
+Relationship: It is to the North of the master room.
+Size: It is about 10 feet by 10feet. Location: The kitchen is on the North west of the floor plan.
+Relationship: It is to the North of the balcony 2.
+Size: it is about 10 feet by 4 feet. Location: The living room is on the western central part of the floor plan.Relationship: It is on the west of the master room.Size: It is about 405 square feet. Location: The master room is on the west of the floor plan.
+Relationship: It is on the west of the living room and south of the common room.
+Size: It is about 12feet by 10feet. 

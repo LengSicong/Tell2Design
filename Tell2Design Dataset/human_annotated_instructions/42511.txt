@@ -1,0 +1,1 @@
+bathroom is located in the North West near to kitchen. The room size is 10x5. common room is located in the South East corner. The room size is 10x7. kitchen is in the West corner attached to the bathroom. The room size is 10x7. living room is located in the North East corner. The room size is 10x8. master room is in the South west corner. The room size is 10x8. 

@@ -1,0 +1,1 @@
+The bathroom is above the master room and is 5 by 5 feet. The common room 1 is above the bathroom and is 10 by 10 feet. The common room 2 is below the kitchen and is 5 by 5 feet. the kitchen is in the upper left and is 10 by 10 feet. The living room is in the middle and is 10 feet wide and 40 feet tall. The master room is in the lower right and is 10 feet wide and 20 feet tall. 
