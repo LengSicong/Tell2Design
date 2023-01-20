@@ -1,7 +1,0 @@
-Location: The room is on the South east of the floor plan.Relationship: It is on the eastern side of the living room.Size: It is about 2feet by 10feet. Location: The bathroom is on the Northern part of the floor plan.Relationship: It is to the west of the master room.Size: It about 5 feet by four feet. Location: Common room 1 is on the west of the floor plan.
-Relationship: It is to the North of the kitchen and west of the living room.
-Size: It is about 11feet by 13feet. Location: Common room 2 is on the East of the living room.
-Relationship: The room is South of the master room.
-Size: It is about 8feet by 12feet. Location: The kitchen is on the west of the floor plan.
-Relationship: It is on the western side of the living rom.
-Size: It is about 16 square feet. Location: The living room is to the South of the floor plan.Relationship: It is to the south of the common rooms.Size: It is about 600 square feet. Location: The master room is to the North East of the floor plan.Relationship: It is on the west side of the bathroom.Size: It is about 160 square feet. 

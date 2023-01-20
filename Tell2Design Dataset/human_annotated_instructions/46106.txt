@@ -1,5 +1,0 @@
-Location: The balcony is on the southern part of the plan.
-Relationship: The balcony is exactly to the south of the master room.
-Size: It is about 10 feet by 4 feet. Location: The bathroom is on the Northern part of the floor plan.Relationship: The bathroom is between the common room and the kitchen just to the north of the living room.Size: It is about 6 feet by 10 feet. Location: The common room is on the North-east side of the plan.
-Relationship: It is on the East side of the bathroom.
-Size: It is about 10 feet by 18 feet. Location: The kitchen is on the North west side of the floor plan.Relationship: It is on the western side of the bathroom.Size: It is about 6 feet by 10 feet. Location: The living room is on the central part of the floor plan.Relationship: The room is to the southern side of the common room, bathroom and the kitchenSize: The room is about 480 square feet. Location: The master room is on the southern part of the plan.Relationship: It is exactly to the south of the living room and north of the balcony.Size: It is about 10 feet by 18 feet. 
