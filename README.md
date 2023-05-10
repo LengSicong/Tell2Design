@@ -1,6 +1,6 @@
 # Tell2Design: A Dataset for Language-Guided Floor Plan Generation
 
-Code for the paper "[Tell2Design: A Dataset for Language-Guided Floor Plan Generation](http)" (ACL 2023)
+Code and data for the paper "[Tell2Design: A Dataset for Language-Guided Floor Plan Generation](http)" (ACL 2023)
 
 If you use this code or dataset, please cite the paper using the bibtex reference below.
 ```
