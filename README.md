@@ -114,4 +114,10 @@ See the [sample config file](config.ini) to understand the format.
 - `max_output_seq_length_eval` (int): maximum output sequence length for evaluation (default is `max_output_seq_length` or `max_seq_length_eval` or `max_seq_length`)
 - `episodes` (str): episodes to run (default is `0`; an interval can be specified, such as `1-4`; the episode number is used as the random seed)
 
-See [arguments.py](arguments.py) and [transformers.TrainingArguments](https://github.com/huggingface/transformers/blob/master/src/transformers/training_args.py) for additional config arguments.
+See [arguments.py](./T5/arguments.py) and [transformers.TrainingArguments](https://github.com/huggingface/transformers/blob/master/src/transformers/training_args.py) for additional config arguments.
+
+
+## Licenses
+
+The code of this repository is released under the [Apache 2.0 license](LICENSE).
+The dataset of this repository is released uder the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB).
