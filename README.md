@@ -20,3 +20,9 @@ If you use this code or dataset, please cite the paper using the bibtex referenc
 - Transformers (tested with version 4.14.1)
 
 You can install all required Python packages with `pip install -r requirements.txt`
+
+
+## Datasets
+
+The dataset collected in this paper is stored in [Google Drive](http). Please download the zip file from the cloud and extract to your local machine.
+
