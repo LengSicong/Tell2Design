@@ -2,7 +2,7 @@
 
 Code and data for the paper "[Tell2Design: A Dataset for Language-Guided Floor Plan Generation](http)" (ACL 2023)
 
-If you use this code or dataset, please cite the paper using the bibtex reference below.
+<!-- If you use this code or dataset, please cite the paper using the bibtex reference below.
 ```
 @inproceedings{Tell2Design,
     title={Tell2Design: A Dataset for Language-Guided Floor Plan Generation},
@@ -10,7 +10,7 @@ If you use this code or dataset, please cite the paper using the bibtex referenc
     booktitle={The 61st Annual Meeting of the Association for Computational Linguistics, {ACL} 2023},
     year={2023},
 }
-```
+``` -->
 
 
 ## Requirements
