@@ -24,7 +24,7 @@ You can install all required Python packages with `pip install -r requirements.t
 
 ## Datasets
 <!-- [Google Drive](https://drive.google.com/file/d/1ebPneckeDR88YMjGb2t1iguCCKHl8kGB/view?usp=sharing) -->
-The dataset collected in this paper is stored in [File.io](https://file.io/fKHy1KvKvqXi). Please download the zip file from the cloud and extract to your local machine.
+The dataset collected in this paper is stored in [Google Drive](https://drive.google.com/file/d/1ebPneckeDR88YMjGb2t1iguCCKHl8kGB/view?usp=drivesdk ). Please download the zip file from the cloud and extract to your local machine.
 
 ### Data Structure
 - General Data/
