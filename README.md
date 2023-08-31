@@ -116,6 +116,23 @@ See the [sample config file](config.ini) to understand the format.
 
 See [arguments.py](./T5/arguments.py) and [transformers.TrainingArguments](https://github.com/huggingface/transformers/blob/master/src/transformers/training_args.py) for additional config arguments.
 
+## Citation
+
+```
+@inproceedings{leng-etal-2023-tell2design,
+    title = "{T}ell2{D}esign: A Dataset for Language-Guided Floor Plan Generation",
+    author = "Leng, Sicong  and
+      Zhou, Yang  and
+      Dupty, Mohammed Haroon  and
+      Lee, Wee Sun  and
+      Joyce, Sam  and
+      Lu, Wei",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.820"
+}
+```
+
 
 ## Licenses
 
