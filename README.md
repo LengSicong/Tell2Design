@@ -2,6 +2,8 @@
 
 Code and data for the paper "[Tell2Design: A Dataset for Language-Guided Floor Plan Generation](http)" (ACL 2023)
 
+For any inquiries, please contact Lengsicong@gmail.com and zhou_yang@ihpc.a-star.edu.sg.
+
 <!-- If you use this code or dataset, please cite the paper using the bibtex reference below.
 ```
 @inproceedings{Tell2Design,
