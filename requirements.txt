@@ -1,6 +1,6 @@
 absl-py==0.10.0
 accelerate==0.18.0
-aiohttp @ file:///home/conda/feedstock_root/build_artifacts/aiohttp_1605734405039/work
+aiohttp==3.8.1
 alabaster==0.7.12
 alembic==1.6.5
 allennlp==0.8.1
@@ -8,7 +8,7 @@ allennlp-models==2.4.0
 astor==0.8.1
 astunparse==1.6.3
 async-timeout==3.0.1
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/work
+attrs==23.1.0
 aws-xray-sdk==0.95
 awscli==1.19.78
 Babel==2.9.1
@@ -23,7 +23,7 @@ cached-property==1.5.2
 cachetools==4.1.1
 catalogue==2.0.6
 certifi==2020.12.5
-cffi @ file:///tmp/build/80754af9/cffi_1636541929935/work
+cffi==1.15.0
 chardet==4.0.0
 charset-normalizer==2.1.0
 click==8.0.1
@@ -36,7 +36,7 @@ configparser==5.2.0
 conlleval==0.2
 conllu==0.11
 cookies==2.2.1
-cryptography @ file:///croot/cryptography_1673298753778/work
+cryptography==3.4.7
 cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.23
@@ -58,9 +58,9 @@ flaky==3.7.0
 Flask==1.0.2
 Flask-Cors==3.0.7
 foolbox==3.3.3
-fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1608050797851/work
+fsspec==2023.6.0
 ftfy==6.0.1
-future @ file:///home/conda/feedstock_root/build_artifacts/future_1605203483395/work
+future==0.18.3
 gast==0.2.2
 gevent==1.3.6
 gitdb==4.0.9
@@ -73,7 +73,7 @@ greenlet==1.1.0
 grpcio==1.32.0
 h5py==2.10.0
 huggingface-hub==0.2.1
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+idna== 3.4
 imagesize==1.2.0
 importlib-metadata==4.6.1
 iniconfig==1.1.1
@@ -109,7 +109,7 @@ moto==1.3.4
 mpmath==1.2.1
 msgpack==0.5.6
 msgpack-numpy==0.4.3.2
-multidict @ file:///home/conda/feedstock_root/build_artifacts/multidict_1602413133191/work
+multidict== 6.0.4
 murmurhash==1.0.2
 networkx==2.5
 nltk==3.5
@@ -135,7 +135,7 @@ pathy==0.6.0
 pbr==5.6.0
 peft==0.2.0
 pickle5==0.0.12
-Pillow @ file:///tmp/build/80754af9/pillow_1603822253009/work
+Pillow== 8.3.2
 plac==0.9.6
 pluggy==0.13.1
 preshed==3.0.5
@@ -150,15 +150,15 @@ pyarrow==4.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools==2.0
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pycparser== 2.21
 pycryptodome==3.10.1
 pydantic==1.8.2
 Pygments==2.9.0
 PyJWT==1.7.1
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyOpenSSL== 23.1.1
 pyparsing==2.4.7
 pyperclip==1.8.2
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1602326924965/work
+PySocks== 1.7.1
 pytest==6.2.4
 python-daemon==2.1.2
 python-dateutil==2.8.1
@@ -222,14 +222,14 @@ torchaudio==0.13.0+cu117
 torchtext==0.7.0
 torchvision==0.14.0+cu117
 tornado==5.1.1
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1608900042843/work
+tqdm== 4.64.0
 transformers==4.14.1
 typer==0.4.0
 typing-extensions==3.10.0.0
 typish==1.9.3
 ujson==4.0.2
 Unidecode==1.2.0
-urllib3 @ file:///croot/urllib3_1673575502006/work
+urllib3== 1.26.6
 wandb==0.13.0
 wasabi==0.8.2
 wcwidth==0.2.5
@@ -239,6 +239,6 @@ word2number==1.1
 wrapt==1.10.11
 xfeat==0.1.1
 xmltodict==0.12.0
-yarl @ file:///home/conda/feedstock_root/build_artifacts/yarl_1605429464118/work
+yarl== 1.8.1
 yaspin==2.1.0
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
+zipp @ file==///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
